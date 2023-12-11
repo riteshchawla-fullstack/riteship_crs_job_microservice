@@ -16,3 +16,20 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+/target/classes/application.properties
+/target/classes/application.yml
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/classes/com/riteship/crs/job/microservice/entities/JobDataBean.class
+/target/classes/com/riteship/crs/job/microservice/convertor/JobDataBeanConvertor.class
+/target/classes/com/riteship/crs/job/microservice/dtos/JobDataBeanDTO.class
+/target/classes/com/riteship/crs/job/microservice/RiteShipCrsJobMicroServiceApplication.class
+/target/test-classes/com/riteship/crs/job/microservice/RiteShipCrsJobMicroServiceApplicationTests.class
+/target/classes/com/riteship/crs/job/microservice/RiteShipJobDBOperationsBean.class
+/target/classes/com/riteship/crs/job/microservice/controller/RiteShipJobRestController.class
+/target/classes/com/riteship/crs/job/microservice/impl/RiteShipJobServiceBean.class
+/target/classes/com/riteship/crs/job/microservice/config/RiteShipMvcConfiguration.class
+/target/classes/com/riteship/crs/job/microservice/ServletInitializer.class
+/target/test-classes/com/riteship/crs/job/microservice/TestRiteShipCrsJobMicroServiceApplication.class
